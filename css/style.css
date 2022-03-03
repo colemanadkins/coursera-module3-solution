@@ -22,6 +22,8 @@ body {
 }
 #nav-list {
     background-color: white;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 #nav-list a {
     color: black;
