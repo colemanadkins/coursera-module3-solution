@@ -8,7 +8,7 @@ body {
 #header-nav {
     background-color: #808080;
     border-radius: 0;
-    border: 0;
+    border-bottom: 2px solid black;
 }
 .navbar-brand h1 { 
     color: black;
@@ -20,7 +20,6 @@ body {
     margin-bottom: 0;
     line-height: .75;
 }
-
 #nav-list {
     margin-top: 10px;
 }
@@ -34,14 +33,18 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 2px solid black;
 }
+/* BODY */
 #ourMenu {
-    font-size: 1.5em;
+    font-size: 2.0em;
     text-transform: uppercase;
     font-weight: bold;
     text-shadow: 1px 1px 1px lightgray;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 50px;
     line-height: .75;
+}
+.menuSections {
+    background-color: #808080;
 }
 
 
