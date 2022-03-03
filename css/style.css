@@ -1,47 +1,47 @@
 body {
     font-size: 16px;
-    color: black;
-    background-color: white;
+    color: #000;
+    background-color: #fff;
     font-family:Arial, Helvetica, sans-serif;
 }
 /* HEADER */
 #header-nav {
     background-color: #808080;
     border-radius: 0;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #000;
 }
 .navbar-brand h1 { 
-    color: black;
+    color: #000;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 1px 1px 1px lightgray;
+    text-shadow: 1px 1px 1px #d3d3d3;
     margin-top: 0;
     margin-bottom: 0;
     line-height: .75;
 }
 #nav-list {
-    background-color: white;
+    background-color: #87ceeb;
     margin-top: 0;
     margin-bottom: 0;
 }
 #nav-list a {
-    color: black;
-    border: 1px solid black;
+    color: #000;
+    border: 1px solid #000;
     text-align: center;
 }
 #nav-list a:hover {
-    background: lightgray;
+    background: #d3d3d3;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 2px solid black;
+    border: 2px solid #000;
 }
 /* BODY */
 #ourMenu {
     font-size: 2.0em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 1px 1px 1px lightgray;
+    text-shadow: 1px 1px 1px #d3d3d3;
     margin-top: 0;
     margin-bottom: 50px;
     line-height: .75;
