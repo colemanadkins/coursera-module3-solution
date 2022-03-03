@@ -21,15 +21,15 @@ body {
     line-height: .75;
 }
 #nav-list {
-    margin-top: 10px;
-    background-color: red;
+    background-color: white;
 }
 #nav-list a {
     color: black;
+    border: 1px solid black;
     text-align: center;
 }
 #nav-list a:hover {
-    background: white;
+    background: lightgray;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 2px solid black;
@@ -48,6 +48,13 @@ body {
     background-color: #808080;
     margin-bottom: 5px;
 }
+
+/* @media (max-width: 767px) {
+    .menuSections {
+        
+        
+    }
+} */
 
 
 
