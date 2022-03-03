@@ -49,12 +49,11 @@ body {
     margin-bottom: 5px;
 }
 
-/* @media (max-width: 767px) {
-    .menuSections {
-        
-        
-    }
-} */
+@media (max-width: 767px) {
+    #main-content {
+        width: 70%;
+        }
+}
 
 
 
